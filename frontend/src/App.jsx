@@ -21,7 +21,8 @@ import Flowchart from "./components/Flowchart/Flowchart.jsx";
 import YogaListing from "./pages/YogaListing/YogaListing.jsx";
 import Dashboard from "./pages/Dashboard/dashboard.jsx";
 import SettingsPage from "./pages/Dashboard/settings.jsx";
-import HealthReport from "./pages/Dashboard/healthreport.jsx";
+
+import HealthReport from "./pages/Dashboard/Healthreport.jsx";
 
 export default function App() {
   return (
